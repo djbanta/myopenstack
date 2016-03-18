@@ -1,0 +1,14 @@
+Created a new network:
++-----------------+--------------------------------------+
+| Field           | Value                                |
++-----------------+--------------------------------------+
+| admin_state_up  | True                                 |
+| id              | f5216f4f-1118-4421-940d-26140e913383 |
+| mtu             | 0                                    |
+| name            | vault-tek-network                    |
+| router:external | False                                |
+| shared          | False                                |
+| status          | ACTIVE                               |
+| subnets         |                                      |
+| tenant_id       | 0d39f35b88044b2f9ca294510a43278a     |
++-----------------+--------------------------------------+

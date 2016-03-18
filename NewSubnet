@@ -1,0 +1,19 @@
+Created a new subnet:
++-------------------+----------------------------------------------+
+| Field             | Value                                        |
++-------------------+----------------------------------------------+
+| allocation_pools  | {"start": "10.10.0.2", "end": "10.10.0.254"} |
+| cidr              | 10.10.0.0/24                                 |
+| dns_nameservers   |                                              |
+| enable_dhcp       | True                                         |
+| gateway_ip        | 10.10.0.1                                    |
+| host_routes       |                                              |
+| id                | 7595dca1-48ef-4ca3-8af7-2198526a9ae9         |
+| ip_version        | 4                                            |
+| ipv6_address_mode |                                              |
+| ipv6_ra_mode      |                                              |
+| name              | vault-tek-network-subnet-10                  |
+| network_id        | f5216f4f-1118-4421-940d-26140e913383         |
+| subnetpool_id     |                                              |
+| tenant_id         | 0d39f35b88044b2f9ca294510a43278a             |
++-------------------+----------------------------------------------+
